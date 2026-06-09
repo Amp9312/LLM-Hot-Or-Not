@@ -1,5 +1,7 @@
 Data scraping and analysis tool I wrote to for a final project in my data science class. 
 
+Note: If you intend to iterate on this, you may need to generate your own GitHub Personal Access token and save it to your environment variables. 
+
 Currently only captures random snapshots of time to analyze trends outside of localized instances of time
 
 Should be able to modify number of samples for variation, what intervals of time to look in, and even the keywords. 
